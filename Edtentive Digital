@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Marketing Solutions & Consultancy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#home" class="logo">DMC Solutions</a>
+            <ul class="nav-menu">
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#work" class="nav-link">Work</a></li>
+                <li><a href="#solutions" class="nav-link">Solutions</a></li>
+                <li><a href="#blog" class="nav-link">Blog</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="hero-content">
+            <h1>Digital Marketing Excellence</h1>
+            <p>Transform Your Business with Strategic Digital Solutions</p>
+            <a href="#contact" class="cta-button">Get Started</a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>We are a team of experienced digital marketing professionals dedicated to helping businesses achieve their online goals. With over a decade of combined experience, we specialize in creating data-driven strategies that deliver measurable results.</p>
+                    <p>Our mission is to empower businesses of all sizes with the digital marketing expertise they need to thrive in today's competitive landscape.</p>
+                </div>
+                <div class="about-stats">
+                    <div class="stat">
+                        <h3>200+</h3>
+                        <p>Projects Completed</p>
+                    </div>
+                    <div class="stat">
+                        <h3>95%</h3>
+                        <p>Client Satisfaction</p>
+                    </div>
+                    <div class="stat">
+                        <h3>10+</h3>
+                        <p>Years Experience</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Work Section -->
+    <section id="work" class="work">
+        <div class="container">
+            <h2>Our Work</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <h3>E-Commerce Optimization</h3>
+                    <p>Increased online sales by 150% for a leading retail brand through targeted SEO and conversion optimization.</p>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <h3>Social Media Campaign</h3>
+                    <p>Grew social media presence from 5K to 100K followers in 6 months with strategic content marketing.</p>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <h3>Brand Relaunch</h3>
+                    <p>Successfully repositioned a legacy brand with modern digital marketing strategies and new brand identity.</p>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <h3>Lead Generation Campaign</h3>
+                    <p>Generated 500+ qualified leads per month for a B2B service provider through targeted PPC campaigns.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solutions Section -->
+    <section id="solutions" class="solutions">
+        <div class="container">
+            <h2>Our Solutions</h2>
+            <div class="solutions-grid">
+                <div class="solution-card">
+                    <div class="solution-icon">📱</div>
+                    <h3>Social Media Marketing</h3>
+                    <p>Strategic social media campaigns across all major platforms to increase brand awareness and engagement.</p>
+                    <ul>
+                        <li>Content Strategy & Creation</li>
+                        <li>Community Management</li>
+                        <li>Paid Social Advertising</li>
+                    </ul>
+                </div>
+                <div class="solution-card">
+                    <div class="solution-icon">🔍</div>
+                    <h3>SEO & SEM</h3>
+                    <p>Improve your search visibility and drive qualified traffic with our comprehensive SEO and SEM services.</p>
+                    <ul>
+                        <li>Technical SEO</li>
+                        <li>Keyword Research & Optimization</li>
+                        <li>Google Ads Management</li>
+                    </ul>
+                </div>
+                <div class="solution-card">
+                    <div class="solution-icon">✉️</div>
+                    <h3>Email Marketing</h3>
+                    <p>Build lasting customer relationships through personalized email campaigns and automation.</p>
+                    <ul>
+                        <li>Email Automation</li>
+                        <li>List Building & Segmentation</li>
+                        <li>Campaign Analytics</li>
+                    </ul>
+                </div>
+                <div class="solution-card">
+                    <div class="solution-icon">📊</div>
+                    <h3>Analytics & Reporting</h3>
+                    <p>Data-driven insights and comprehensive reporting to measure ROI and optimize campaigns.</p>
+                    <ul>
+                        <li>Performance Tracking</li>
+                        <li>Custom Dashboards</li>
+                        <li>Strategic Recommendations</li>
+                    </ul>
+                </div>
+                <div class="solution-card">
+                    <div class="solution-icon">🎨</div>
+                    <h3>Content Marketing</h3>
+                    <p>Create compelling content that resonates with your audience and drives conversions.</p>
+                    <ul>
+                        <li>Blog Writing & Strategy</li>
+                        <li>Video Content</li>
+                        <li>Infographics & Design</li>
+                    </ul>
+                </div>
+                <div class="solution-card">
+                    <div class="solution-icon">🤝</div>
+                    <h3>Consultation & Strategy</h3>
+                    <p>Expert strategic guidance to align your marketing efforts with business objectives.</p>
+                    <ul>
+                        <li>Marketing Audits</li>
+                        <li>Strategy Development</li>
+                        <li>Training & Support</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog">
+        <div class="container">
+            <h2>Latest Blog Posts</h2>
+            <div class="blog-grid">
+                <article class="blog-post">
+                    <div class="blog-date">Mar 05, 2026</div>
+                    <h3>The Future of AI in Digital Marketing</h3>
+                    <p>Discover how artificial intelligence is transforming the digital marketing landscape and what it means for your business strategy.</p>
+                    <a href="#" class="read-more">Read More →</a>
+                </article>
+                <article class="blog-post">
+                    <div class="blog-date">Feb 28, 2026</div>
+                    <h3>5 Essential SEO Trends for 2026</h3>
+                    <p>Stay ahead of the competition by implementing these critical SEO strategies that will dominate search results this year.</p>
+                    <a href="#" class="read-more">Read More →</a>
+                </article>
+                <article class="blog-post">
+                    <div class="blog-date">Feb 20, 2026</div>
+                    <h3>Maximizing ROI with Social Media Ads</h3>
+                    <p>Learn expert techniques for optimizing your social media advertising campaigns to achieve maximum return on investment.</p>
+                    <a href="#" class="read-more">Read More →</a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Get In Touch</h2>
+            <div class="contact-content">
+                <div class="contact-form">
+                    <form>
+                        <div class="form-group">
+                            <input type="text" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="Subject">
+                        </div>
+                        <div class="form-group">
+                            <textarea placeholder="Your Message" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="submit-btn">Send Message</button>
+                    </form>
+                </div>
+                <div class="contact-info">
+                    <div class="info-item">
+                        <h3>📧 Email</h3>
+                        <p>hello@dmcsolutions.com</p>
+                    </div>
+                    <div class="info-item">
+                        <h3>📱 Phone</h3>
+                        <p>+1 (555) 123-4567</p>
+                    </div>
+                    <div class="info-item">
+                        <h3>📍 Location</h3>
+                        <p>123 Marketing Street<br>Business City, BC 12345</p>
+                    </div>
+                    <div class="social-links">
+                        <a href="#" class="social-icon">LinkedIn</a>
+                        <a href="#" class="social-icon">Twitter</a>
+                        <a href="#" class="social-icon">Facebook</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 Digital Marketing Solutions & Consultancy. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+                <a href="#">Sitemap</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
